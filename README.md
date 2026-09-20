@@ -5,7 +5,7 @@ Este projeto analisa fatores que influenciam remuneração e retenção de colab
 Os principais temas abordados incluem:
 - Experiência e remuneração
 - Idade e experiência
-- Gênero e retenção
+- Gênero
 - Mobilidade interna e desligamento
 - Distribuição geográfica e remuneração
 - Variação salarial
